@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>htmlbox</name>
+    <displayName><![CDATA[Html Box in SideBar]]></displayName>
+    <version><![CDATA[0.1]]></version>
+    <description><![CDATA[View simple html in sidebar]]></description>
+    <author><![CDATA[bwlab]]></author>
+    <tab><![CDATA[Others]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries>it</limited_countries>
+</module>
